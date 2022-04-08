@@ -1,0 +1,9 @@
+allowHTML: true
+linkify: true
+breaks: false
+connector:
+    type: github
+    github: 
+        endpoint: https://api.github.com
+        owner: migs911
+        repo: yfm-test
