@@ -2,6 +2,6 @@
 
 aaaaa
 
-<b>bold aaaa</b>
+<b>bold [link](quickstart.md) aaaa</b>
 
 aaaaa and <b>bold aaaa</b>

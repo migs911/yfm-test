@@ -7,3 +7,5 @@ items:
     href: quickstart.md
   - name: Test Imagemaps
     href: imagemap.md
+  - name: Test Grids
+    href: grid.md
