@@ -1,0 +1,9 @@
+# Test imagemaps
+
+<img src="https://www.w3schools.com/html/workplace.jpg" alt="Workplace" usemap="#workmap">
+
+<map name="workmap">
+  <area shape="rect" coords="34,44,270,350" alt="Computer" href="index.html">
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="quickstart.html">
+  <area shape="circle" coords="337,300,44" alt="Coffee" href="quickstart.html">
+</map>

@@ -5,3 +5,5 @@ items:
     href: index.md
   - name: Quick Start
     href: quickstart.md
+  - name: Test Imagemaps
+    href: imagemap.md
